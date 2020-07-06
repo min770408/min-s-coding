@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace MoreOnArray
 {
@@ -71,4 +71,4 @@ namespace MoreOnArray
             Console.WriteLine();
         } 
     }
-}*/
+}
