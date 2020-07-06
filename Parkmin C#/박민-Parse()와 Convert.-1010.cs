@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace StringNumberConversion
 {
@@ -23,4 +23,4 @@ namespace StringNumberConversion
             Console.WriteLine(h);
         }
     }
-}*/
+}
