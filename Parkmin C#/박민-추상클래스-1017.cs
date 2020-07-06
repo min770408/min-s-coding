@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace AbstractClass
 {
@@ -36,4 +36,4 @@ namespace AbstractClass
             obj.PublicMethodA();
         }
     }
-}*/
+}
