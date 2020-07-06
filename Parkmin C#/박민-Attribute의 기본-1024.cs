@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace BasicAttribute
 {
@@ -26,4 +26,4 @@ namespace BasicAttribute
             obj.NewMethod();
         }
     }
-}*/
+}
