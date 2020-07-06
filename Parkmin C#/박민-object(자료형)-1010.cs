@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace Object
 {
@@ -17,4 +17,4 @@ namespace Object
             Console.WriteLine(d);
         }
     }
-}*/
+}
